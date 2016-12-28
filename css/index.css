@@ -1,4 +1,8 @@
 
+
+
+
+
 body,
 html {
     width: 100%;
@@ -30,7 +34,7 @@ h6 {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
-    color: #f8f8f8;
+    color: #333;
     background: white;
     background-size: cover;
 }
@@ -62,7 +66,7 @@ h6 {
 }
 
 .section-heading h2 {
-color: #f8f8f8 !important;
+color: #FF9100 !important;
 }
 
 a {
@@ -153,7 +157,7 @@ li {
 }
 
 .intro-message1 h1 {
-  color: #f8f8f8;
+  color: #FF9100;
 }
 
 .banner ul {
